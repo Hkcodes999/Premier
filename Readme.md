@@ -44,13 +44,6 @@ Premier/
 └── README.md             # Project documentation
 ```
 
-## 📸 Screenshots
-
-> Add clear screenshots of:
->
-> * The homepage hero section
-> * Responsive mobile layout
-> * Any animated scroll interactions
 
 ## 🚀 Future Enhancements
 
