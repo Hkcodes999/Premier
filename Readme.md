@@ -2,7 +2,7 @@
 
 Premier is a modern, visually engaging, and fully responsive landing page designed to showcase premium branding and UI aesthetics. This project reflects a commitment to clean structure, efficient animation techniques, and thoughtful design. Built using core web technologies like HTML5, CSS3, and JavaScript, and enhanced by GSAP animations, it provides a polished user experience with smooth transitions and a premium feel.
 
-🔗 [Live Project on Netlify](https://premier999.netlify.app/)
+🔗 [Live Project on Netlify](https://premiersite999.netlify.app/)
 
 ---
 
