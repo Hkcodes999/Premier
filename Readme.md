@@ -70,7 +70,7 @@ Connect with me on [LinkedIn](www.linkedin.com/in/harekrishna-manna-22569736b)
 ## 💌 Contact
 
 If you'd like to collaborate or hire me for internships, drop a message at:
-📧 [harekrishnamanna999@gmail.com](mailto:harekrishnamanna999@gmail.com)
+📧 [harekrishnamanna999@gmail.com](mailto:swimkrihna150@gmail.com)
 
 ---
 
