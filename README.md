@@ -7,7 +7,7 @@ Premier is a modern, visually engaging, and fully responsive landing page design
 ---
 # Premier
 
-![Preview](./scrollpics/Premier-gif.gif)
+![Preview](./scroll%20pics/Premier-gif.gif)
 
 ---
 
@@ -38,7 +38,7 @@ Premier is a modern, visually engaging, and fully responsive landing page design
 ---
 # Premier
 
-![Preview](./Assets/FranscoGioia-gif.gif)
+![Preview](./scroll%20pics/Premier-gif2.gif)
 
 ---
 
