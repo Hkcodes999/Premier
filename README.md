@@ -5,6 +5,12 @@ Premier is a modern, visually engaging, and fully responsive landing page design
 🔗 [Live Project on Netlify](https://premiersite999.netlify.app/)
 
 ---
+# Premier
+
+![Preview](./scrollpics/Premier-gif.gif)
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -29,6 +35,33 @@ Premier is a modern, visually engaging, and fully responsive landing page design
 * Improving semantic HTML structure for better accessibility and SEO.
 * Organizing assets and code structure for maintainable front-end projects.
 
+---
+# Premier
+
+![Preview](./Assets/FranscoGioia-gif.gif)
+
+---
+
+## 🚀 Future Enhancements
+
+* 🌙 Add **Dark Mode** toggle functionality.
+* 🧠 Use **Intersection Observer** for better scroll performance.
+* 📄 Convert to multi-page site with additional service sections.
+* 🔧 Integrate **Form Validation** and real-time user feedback components.
+
+## 📚 Ideal For
+
+* UI/UX design showcase
+* Front-end developer portfolio project
+* Template for modern brand or agency landing pages
+
+
+---
+
+![Preview](./scrollpics/Premier-gif2.gif)
+
+---
+
 ## 📁 Project Structure
 
 ```bash
@@ -44,29 +77,12 @@ Premier/
 └── README.md             # Project documentation
 ```
 
-
-## 🚀 Future Enhancements
-
-* 🌙 Add **Dark Mode** toggle functionality.
-* 🧠 Use **Intersection Observer** for better scroll performance.
-* 📄 Convert to multi-page site with additional service sections.
-* 🔧 Integrate **Form Validation** and real-time user feedback components.
-
-## 📚 Ideal For
-
-* UI/UX design showcase
-* Front-end developer portfolio project
-* Template for modern brand or agency landing pages
-
 ## 👨‍💻 Author
 
 **Harekrishna Manna**
 Frontend Developer (React Learner) | Based in Mumbai
 Currently learning React and aiming for full stack (MERN)
 Connect with me on [LinkedIn](https://www.linkedin.com/in/harekrishna-manna-22569736b/)
-
-
----
 
 ## 💌 Contact
 
