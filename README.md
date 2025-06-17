@@ -5,7 +5,7 @@ Premier is a modern, visually engaging, and fully responsive landing page design
 🔗 [Live Project on Netlify](https://premiersite999.netlify.app/)
 
 ---
-# Premier
+# Preview
 
 ![Preview](./scroll%20pics/Premier-gif.gif)
 
@@ -36,7 +36,7 @@ Premier is a modern, visually engaging, and fully responsive landing page design
 * Organizing assets and code structure for maintainable front-end projects.
 
 ---
-# Premier
+# Whole Project Preview
 
 ![Preview](./scroll%20pics/Premier-gif2.gif)
 
